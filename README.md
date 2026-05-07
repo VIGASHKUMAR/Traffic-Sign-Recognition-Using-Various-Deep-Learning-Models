@@ -1,2 +1,23 @@
  # Traffic Sign Recognition Using Various Deep Learning Models
-This project is basically about the sensing of the traffic sign in the roads using cameras and detecting it wheather what traffic symbol is that.
+
+# Project Overview
+
+This project focuses on classifying traffic signs using deep learning models. Multiple CNN architectures were trained and compared to evaluate classification performance.
+
+# Models tested:
+
+Custom CNN
+VGG16 Transfer Learning
+ResNet50 Transfer Learning
+MobileNetV2
+
+# Dataset
+
+German Traffic Sign Recognition Benchmark (GTSRB)
+
+# Technologies Used:
+Python
+TensorFlow / Keras
+OpenCV
+NumPy
+Matplotlib
