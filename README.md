@@ -38,7 +38,7 @@ German Traffic Sign Recognition Benchmark (GTSRB)
 3. MobileNetV2 trained fastest among pretrained architectures.
 4. Model performance depends heavily on dataset characteristics and preprocessing.
 
-### Future Improvements
+### Future Developments
 
 1. Hyperparameter tuning
 2. Data augmentation
